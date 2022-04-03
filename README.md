@@ -1,4 +1,4 @@
-## Hello! 👋🏾 *I'm Jasmine*
+## Hello! *I'm Jasmine.* 👋🏾 
 
 #### I'm a *Senior XR Engineer* currently developing tools and libraries for augmented and mixed reality. I enjoy teaching when I can, mainly Python and game development.  
 
