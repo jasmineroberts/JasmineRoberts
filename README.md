@@ -1,6 +1,6 @@
 ## Hello! *I'm Jasmine.* 👋🏾 
 
-#### I'm a *Senior XR Developer* currently developing tools and libraries for augmented and mixed reality. I enjoy teaching when I can, mainly Python and XR development.  
+#### I'm a *Senior XR Developer* currently developing tools and libraries for augmented and mixed reality. 
 
 #### You can keep tabs on my open-source augmented reality projects here on GitHub. You can also find me on:  
 
