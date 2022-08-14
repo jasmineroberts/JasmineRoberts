@@ -1,4 +1,4 @@
-## Hello! *I'm Jasmine.* 👋🏾 
+## Hello! *I'm Jasmine.* 
 
 #### I'm a *Senior XR Developer* currently developing tools and libraries for augmented and mixed reality. 
 
