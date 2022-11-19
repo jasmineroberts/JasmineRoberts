@@ -1,4 +1,4 @@
-## Hello! *I'm Jasmine.* 
+## Hello! I'm Jasmine. 🥮
 
 #### I'm a *Senior AR/VR Developer* currently developing tools and libraries in my spare time. 
 
