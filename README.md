@@ -1,6 +1,6 @@
 ## Hello! ✷✷
 
-#### I'm an engineering currently developing tools and libraries in my spare time. 
+#### I'm an engineer currently developing tools and libraries in my spare time. 
 
 #### You can keep tabs on my open-source projects here on GitHub. You can also find me at:  
 
