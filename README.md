@@ -7,4 +7,4 @@
 > X: [@jasminezroberts](https://www.twitter.com/jasminezroberts)<br/>
 > Medium: [@jasminezroberts](https://www.medium.com/@jasminezroberts)
 
-<img src="https://imgur.com/a/TiTjCzx" width="500"/>
+<img src="dalle.png" width="500"/>
