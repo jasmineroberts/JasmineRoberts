@@ -7,5 +7,4 @@
 > X: [@jasminezroberts](https://www.twitter.com/jasminezroberts)<br/>
 > Medium: [@jasminezroberts](https://www.medium.com/@jasminezroberts)
 
-![Jasmine](https://i.ibb.co/BqMx9H1)
-
+<img src="https://i.ibb.co/wNRPYCj/image.png" width="500"/>
