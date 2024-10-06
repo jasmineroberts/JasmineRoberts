@@ -1,4 +1,6 @@
-## Hello! ✷✷
+## ✶✶ 
+
+#### 👋🏾
 
 #### I'm an engineer currently developing tools and libraries that incorporate the +/- z-dimension in my spare time. 
 
@@ -7,4 +9,5 @@
 > X: [@jasminezroberts](https://www.twitter.com/jasminezroberts)<br/>
 > Medium: [@jasminezroberts](https://www.medium.com/@jasminezroberts)
 
+![Jasmine](https://i.ibb.co/0FhzR9Y/Image.png)
 
